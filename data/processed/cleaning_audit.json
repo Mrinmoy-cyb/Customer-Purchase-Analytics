@@ -1,0 +1,12 @@
+{
+    "original_rows": 541909,
+    "duplicate_rows_removed": 5268,
+    "rows_after_deduplication": 536641,
+    "missing_customer_id": 135037,
+    "missing_description": 1454,
+    "cancelled_invoice_rows": 9251,
+    "negative_quantity_rows": 10587,
+    "zero_or_negative_price_rows": 2512,
+    "invalid_date_rows": 0,
+    "revenue_total_including_flagged_rows": 9726006.95
+}

@@ -1,0 +1,8 @@
+Metric,Count
+All cleaned rows,536641
+Cancellation invoice rows,9251
+Negative quantity rows,10587
+Zero or negative price rows,2512
+Rows missing CustomerID,135037
+Rows missing description,1454
+Rows eligible for initial sales analysis,524878
